@@ -1,0 +1,71 @@
+.container
+{
+    height: 100%;
+    width:25%;
+    background-color: rgb(199, 186, 186);
+    /* background-image: linear-gradient(#ff8a00, #e52e71); */
+    background-size: cover;
+    margin-left: 470px;
+    margin-top: 100px;
+    padding-top: 10px;
+    border-radius: 20px;
+    border:10px solid rgb(247, 244, 244);
+    padding-bottom: 20px;
+    color:rgb(100, 97, 93);
+    margin-top: 90px;
+    
+
+}
+body{
+    background-color: rgb(74, 162, 221);
+    
+}
+.button
+{
+     
+      padding: 0.6em 2em;
+      border: none;
+      outline: none;
+      font-style:italic;
+      font-size: medium;
+      color: rgb(253, 251, 251);
+      background: rgb(133, 75, 226);
+      cursor: pointer;
+      position: relative;
+      z-index: 0;
+      border-radius: 20px;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+}
+    
+   
+.box
+{
+    border-radius: 10px;
+    border-style:outset;
+    border:5px yellow;
+    height: 30px;
+    position:static;
+    
+    
+}
+/* .hide
+{
+    display:none;
+}
+.hide1:hover + .hide
+{
+    display: block;
+    
+ 
+} */
+.label
+{
+  color:red;
+  
+}
+h3{
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
